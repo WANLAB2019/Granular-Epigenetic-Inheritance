@@ -1,4 +1,4 @@
- \##featurecounts.sh:
+##featurecounts.sh:
 
 /home/wanlab/apps/subread-2.0.0-Linux-x86_64/bin/featureCounts -T 4 -s 2 \
 
